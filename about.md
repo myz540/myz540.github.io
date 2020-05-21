@@ -4,15 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Just some of the topics:
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Science, Engineering, Mathematics
+* Video games (PC)
+* StarCraft
+* Cars
+* Programming
+* Dara (my daughter)
+* Home ownership and the try-to-DYI life
+* Basketball (Celtics)
+* Football and Fantasy Football (Patriots)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I will occasionally touch on more grim topics like politics and climate change 
+but I would rather not dwell on such dolorous thoughts. As my interests grow and change,
+I will likely discuss new topics or discuss certain topics more frequently. Don't like it? 
+Leave. I am not as meme savvy as I once but I'll at least try to make this an enjoyable
+read.
