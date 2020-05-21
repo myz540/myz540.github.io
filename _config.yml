@@ -17,22 +17,16 @@ title: The Zhong Family
 email: mike.zhong89@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     The Zhong Family website and Mike Zhong's personal blog
+
 avatar: https://avatars1.githubusercontent.com/u/10376195?s=400&u=e3a3288e49911feb35a814b4aeb0b681a228f9ca&v=4
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://thezhongfamily.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: myz540
-github_username:  myz540
-linkedin:
+twitter: myz540
+github:  myz540
+linkedin: mikezhong89
 
 # Build settings
 markdown: kramdown
-input: GFM
-syntax_highlighter: rouge
-syntax_highlighter_opts:
-css_class: 'highlight'
-
-sass:
-    style: :expanded
 
 theme: minima
 plugins:
