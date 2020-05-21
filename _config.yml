@@ -26,10 +26,10 @@ linkedin:
 
 # Build settings
 markdown: kramdown
-    input: GFM
-    syntax_highlighter: rouge
-    syntax_highlighter_opts:
-        css_class: 'highlight'
+input: GFM
+syntax_highlighter: rouge
+syntax_highlighter_opts:
+css_class: 'highlight'
 
 sass:
     style: :expanded
