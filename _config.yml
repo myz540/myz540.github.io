@@ -14,9 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Zhong Family
-author:
-    name: Mike Zhong
-    email: mike.zhong89@gmail.com
+author: Mike Zhong
+email: mike.zhong89@gmail.com
 
 description: | 
     The Zhong Family website and Mike Zhong's personal blog
@@ -25,35 +24,16 @@ avatar: "https://avatars1.githubusercontent.com/u/10376195?s=400&u=e3a3288e49911
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thezhongfamily.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-minima:
-    date_format: "%b %-d, %Y"
-    
-    social_links:
-        twitter: myz540
-        github:  myz540
-        linkedin: mikezhong89
-    	# devto: jekyll
-   	 	# dribbble: jekyll
-   	 	# facebook: jekyll
-   	 	# flickr:   jekyll
-   	 	# instagram: jekyll
-   	 	# linkedin: jekyll
-   	 	# pinterest: jekyll
-   	 	# youtube: jekyll
-   	 	# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-   	 	# youtube_channel_name: CloudCannon
-   	 	# telegram: jekyll
-   	 	# googleplus: +jekyll
-   	 	# microdotblog: jekyll
-   	 	# keybase: jekyll
+twitter_username: myz540
+github_username:  myz540
+linkedin_username: mikezhong89
 
 # Build settings
 markdown: kramdown
 
 theme: minima
 plugins:
-    - jekyll-feed
-    - jekyll-sitemap
+  - jekyll-feed
 
 
 # Exclude from processing.
