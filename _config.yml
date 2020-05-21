@@ -14,17 +14,39 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: The Zhong Family
-email: mike.zhong89@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+author:
+    name: Mike Zhong
+    email: mike.zhong89@gmail.com
+
+description: | 
     The Zhong Family website and Mike Zhong's personal blog
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+avatar: "https://avatars1.githubusercontent.com/u/10376195?s=400&u=e3a3288e49911feb35a814b4aeb0b681a228f9ca&v=4"
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thezhongfamily.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: myz540
-github:  myz540
-linkedin: mikezhong89
 
-avatar: https://avatars1.githubusercontent.com/u/10376195?s=400&u=e3a3288e49911feb35a814b4aeb0b681a228f9ca&v=4
+minima:
+    date_format: "%b %-d, %Y"
+    
+    social_links:
+        twitter: myz540
+        github:  myz540
+        linkedin: mikezhong89
+    	# devto: jekyll
+   	 	# dribbble: jekyll
+   	 	# facebook: jekyll
+   	 	# flickr:   jekyll
+   	 	# instagram: jekyll
+   	 	# linkedin: jekyll
+   	 	# pinterest: jekyll
+   	 	# youtube: jekyll
+   	 	# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+   	 	# youtube_channel_name: CloudCannon
+   	 	# telegram: jekyll
+   	 	# googleplus: +jekyll
+   	 	# microdotblog: jekyll
+   	 	# keybase: jekyll
+
 # Build settings
 markdown: kramdown
 
