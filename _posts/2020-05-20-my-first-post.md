@@ -28,7 +28,7 @@ In my limited free time, I enjoy playing videos (PCMR), board games, basketball,
 I enjoy spending time with my daughter. She is objectively the cutest baby in the world and probably could
 have been the next gerber baby.
 
-![dara](/assets/dara_01.jpg)
+![dara](/assets/dara/dara_01.jpg)
 
 I intend to use this space mostly to ramble and stream various trains of thoughts. Due to the broad and
 eclectic nature of the topics, I will not even attempt to enumerate them but I will try to tag them 
