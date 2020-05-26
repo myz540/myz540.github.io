@@ -526,7 +526,7 @@ was too strong for the Xel'Naga to control and so the story begins. Although the
 campaigns, story, and lore are all amazing, they serve only as embellishments to
 the core gameplay. 
 
-![sc2meme](/assets/video-games/sc2meme.jpeg)
+![sc2-meme](/assets/video-games/sc2-meme.jpeg)
 
 <h2> Wrap Up </h2>
 
