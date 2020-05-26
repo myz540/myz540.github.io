@@ -537,5 +537,5 @@ featured in this post, it does not mean they are not worthy, additionally, I
 have not played every game under the sun so I'm sure there are many that I've
 missed. The beauty is that I have the rest of my life to experience them.
 
-[chips-challenge-wiki]: "https://en.wikipedia.org/wiki/Chip%27s_Challenge"
-[pcmr-subreddit]: "https://www.reddit.com/r/pcmasterrace/"
+[chips-challenge-wiki]: https://en.wikipedia.org/wiki/Chip%27s_Challenge
+[pcmr-subreddit]: https://www.reddit.com/r/pcmasterrace/
