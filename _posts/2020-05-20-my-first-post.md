@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "My first post"
+title:  "My First Post"
 date:   2020-05-20 20:18:39 -0400
 categories: jekyll update
+tags: biography dara introduction
 ---
 
 This is my very first Jekyll post and social media post in a long time. The

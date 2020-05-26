@@ -3,6 +3,7 @@ layout: post
 title:  "Video Games and Re-kindling the Spirit"
 date:   2020-05-25 11:25:39 -0400
 categories: jekyll update
+tags: video-games pcmr starcraft dota
 ---
 
 <h1> My relationship with video games </h1>

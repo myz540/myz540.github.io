@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Anime and TV binges in the age of netflix"
+title:  "Anime and TV Binges in the Age of Netflix"
 date:   2020-05-22 20:25:39 -0400
 categories: jekyll update
+tags: tv anime
 ---
 
 I'm sure we're all guilty of binging television, it is one of those universal
@@ -31,8 +32,8 @@ watching Brooklyn Nine-Nine. This is one of those shows that grows on you over
 the seasons. It never takes itself too seriously, and always has some good jokes
 lined up. The evolution of the characters' relationships with one another is
 endearing and makes me wish the show would never end. As a result, we're going
-to slow our pace, which has led to the perfect opportunity for her to watch the
-show for the first time, and for me to get a much needed re-watch. 
+to slow our pace, which has led to the perfect opportunity for her to watch One
+piece for the first time, and for me to get a much needed re-watch. 
 
 For the uninitiated, One Piece is a 900+ episode (and ongoing?) journey of a
 young man who desires to be the Pirate King in the golden age of pirates. This
