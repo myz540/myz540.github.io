@@ -9,7 +9,7 @@ tags: video-games starcraft
 <h2> Shoutouts and Disclaimers </h2>
 
 Before I get into the build, I want to provide a quick shout out to [Terran
-Craft][terran-craft], and its author/maintainer, Max Yu. As a Starcraft player
+Craft][terran-craft], and its author/maintainer, Max. As a Starcraft player
 and a Terran main, I enjoy his thoughtful commentary and analysis on the game
 from the Terran perspective. He offers insight into builds and the current state
 of the meta game. 
@@ -60,7 +60,9 @@ bunkers with his SCVs. The SCVs double up in utility by repairing the tank and
 medivac as needed. Trap has 5 Stalkers and a sentry and a 40 - 24 worker lead.
 If Trap holds this push, he is very far ahead as Innovation has cut SCVs at 24
 and does not have a second base on the way. He is effectively, all-in with this
-attack and any reinforcing units. 
+attack and any reinforcing units but there is a liberator already on the way and
+he has 3 marines coming at a time. He doesn't put an add-on on the second
+Barracks, opting to spend that time making more marines.
 
 Innovation could have likely started marching his marines over sooner but
 otherwise executes flawlessly. So why was Trap caught so unprepared for this
@@ -99,7 +101,7 @@ While powerful, the build has very obvious drawbacks. If you can't win with the
 push or fail to destroy the enemy's natural, then you will be very far behind.
 If protoss can hold off long enough to get DTs, you will be hard-countered and
 will lose unless you save a scan. An oracle could possibly show up at your base
-and decimate your mineral line, slowly down your reinforcements. This could
+and decimate your mineral line, slowing down your reinforcements. This could
 likely be insured against by rallying some marines to your mineral line but that
 would sacrifice front line forces which are important to this build. 
 
