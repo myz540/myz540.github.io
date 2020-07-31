@@ -8,18 +8,17 @@ tags: piano, basketball
 
 <h2> It's been a long time... </h2>
 
-Once again, I have let this blog go untended for another month. I assure you, I 
+Once again, I have let this blog go untended for another month. I assure you, I
 have been busy, but who isn't these days. With the inaugural games of the NBA
 restart occuring last night, I figured this would be as good a time as any to do
 some rambling. I often ask myself, how do we as complex humans possibly expect
-ourselves and others to be able to boil themselves to a small a paragraph.
+ourselves and others to be able to boil ourselves down to a small paragraph.
 Depending on the context, you may get even less than that. What do we choose to
 disclose, what do we choose to exclude? Does the time I lost my virginity define
-me enough as an individual enough to include it in icebreakers? Anyways, if I
-were to distill myself down, two elements would stand out as being influential
+me enough as an individual to include it in icebreakers? Anyways, if I were to
+distill myself down, two elements would stand out as being influential
 components of my maturation and development. Those two elements are piano and
-basketball. Both have brought me much joy and enhanced my life greatly
-throughout my life.
+basketball. Both have brought me much joy and enhanced my life greatly.
 
 <h2> Young Artist </h2>
 
@@ -49,11 +48,11 @@ time as the students were always keenly aware that she was listening. We also
 engaged in music theory exercises which I absolutely hated because I was just
 terrible at them. The one saving grace was that I began sneaking my gameboy and
 would just play Pokemon with the other kids. My skill progressed rapidly over
-those summers soon, I began having discussions with other teachers in the hopes
-of advancing further technically. 
+those summers and soon, I began having discussions with other teachers in the
+hopes of advancing further technically. 
 
 At this point, I was 12 and my family moved cross-country to Boston, MA. When we
-arrived, I was once again faced with the option of resuming of piano lessons, or
+arrived, I was once again faced with the option of resuming my piano lessons, or
 dropping it altogether. At this point, it seemed like a huge waste to drop it
 but at the same time, I was a teenager and wanted to do other things. The last
 thing I wanted to do was devote an hour a day to practice. At the end of the
@@ -69,14 +68,14 @@ I was ultimately unable to live up to.
 
 When I was 17, I auditioned for the [National Piano Playing Auditions][nppa].
 This was not the first time I had auditioned, for the past 3 years, I would
-attend an audition every summer, each year auditioning for the next level. What
+attend an audition every spring, each year auditioning for the next level. What
 made this year special was that I was at the highest level, and was auditioning
 for the title of "Young Artist"
 
 ![piano-cert1](/assets/piano/piano-cert1.jpg)
 
 I more or less aced my audition. The report card was glowing but did identify
-some of mistakes and also my love for the sustain pedal (especially as a way of
+some of my mistakes and also my love for the sustain pedal (especially as a way of
 masking technical insufficiencies in certain parts of the piece). I performed
 the following pieces:
 
@@ -155,7 +154,7 @@ could to the basketball team.
 
 In the summer of 2013, I suffered the worst injury of my life. I went up for
 shot and the defender leapt at me, collided with me, and crowded my landing
-space. I ended up landing on his shoe, off balance, and my right foot
+space. I ended up landing on his foot, off balance, and my right foot
 disclocated itself temporarily, rupturing many of the tendons and ligaments in
 my foot and ankle. The pain was excruciating and my panicked friends quickly
 rushed me off to the ER. I got x-rays, no fractures, so just a really really
