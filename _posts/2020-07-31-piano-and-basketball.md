@@ -3,7 +3,7 @@ layout: post
 title:  "Piano and Basketball"
 date:   2020-07-31 17:18:39 -0400
 categories: jekyll update
-tags: piano, basketball
+tags: piano basketball
 ---
 
 <h2> It's been a long time... </h2>
