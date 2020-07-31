@@ -89,7 +89,7 @@ anyone who cares
 
 ![piano-cert2](/assets/piano/piano-cert2.jpg)
 
-![piano-cert3](/assets/piano/piano-cert2.jpg)
+![piano-cert3](/assets/piano/piano-cert3.jpg)
 
 
 <h3> Shameless Plug </h3>
@@ -124,7 +124,6 @@ field and all of sudden, I found myself with more time than I previously had. I
 dedicated more time to my studies and excelled, I also spent more time
 reflecting on myself, my strained relationship with my girlfriend at the time,
 and the new friendships I was starting to make.
-
 
 <h2> Ball is Life </h2>
 
