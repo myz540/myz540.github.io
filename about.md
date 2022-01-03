@@ -12,6 +12,7 @@ Just some of the topics:
 * Cars
 * Programming
 * Dara (my daughter)
+* Deckard (my son)
 * Music and Piano
 * Home ownership and the try-to-DYI life
 * Basketball (Celtics)
