@@ -58,7 +58,7 @@ Lastly, I'll probably write a short post about some of the TV I've been watching
 
 My new work place uses slack and google meet instead of microsoft teams and that whole suite of tools. I've noticed with the move to remote work and the proliferation of tooling that exists that companies and employees are trying to strike a fine balance between respecting work-life balance, and making sure employees aren't just slacking off all day. I gotta say, I really like all that slack has to offer, and am particularly fond of the custom emojis you can add. Who knew my meme skills would become professionally relevant.
 
-<iframe width="420" height="315" src="https://preview.redd.it/y6cd405x2iz61.gif"> </iframe>
+![ooohhh](/assets/gifs-and-memes/oooohhh.gif)
 
 [d2-resurrected]: https://www.pcgamer.com/diablo-2-resurrected-review/
 [deckard-cain]: https://diablo.fandom.com/wiki/Deckard_Cain
