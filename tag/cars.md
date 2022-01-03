@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: cars"
-tag: anime
+tag: cars
 robots: noindex
 ---

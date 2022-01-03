@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: basketball"
-tag: biography
+tag: basketball
 robots: noindex
 ---

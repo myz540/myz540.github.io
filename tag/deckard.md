@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: deckard"
-tag: dara
+tag: deckard
 robots: noindex
 ---

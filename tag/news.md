@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: news"
-tag: dota
+tag: news
 robots: noindex
 ---

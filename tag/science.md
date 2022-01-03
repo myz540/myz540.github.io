@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: science"
-tag: anime
+tag: science
 robots: noindex
 ---

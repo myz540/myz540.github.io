@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: piano"
-tag: pcmr
+tag: piano
 robots: noindex
 ---

@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: post-apocalyptic"
-tag: anime
+tag: post-apocalyptic
 robots: noindex
 ---

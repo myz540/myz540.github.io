@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 title: "Tag: covid"
-tag: anime
+tag: covid
 robots: noindex
 ---
