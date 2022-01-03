@@ -10,41 +10,41 @@ tags: biography dara deckard
 
 It's been a long time, I shouldn't've left you... without a dope beat to step to. But no really, it has been a long time. In fact, I didn't publish a single blog post in 2021, which is absolutely crazy since that was essentially a full year of COVID where I was working from home and had plenty of time and substance to write about. 
 
-![deckard1](/assets/deckard/deckard1.jpg){:.center-size-image}
+![deckard1](/assets/deckard/deckard1.jpg){: .center-size-image}
 
 Alas, I've been busy. The most important update is of course the birth of my son, Deckard Sen Zhong. His namesake comes from the classic game Diablo II and it is rather serendipitous that [Diablo II: Resurrected][d2-resurrected] was released shortly after his birth. Deckard Cain[deckard-cain] is of course the Horadric scholar who is a focal character in all the Diablo games. If I had a daughter, I was prepared to name her [Akara][akara], high priestess of the sisterhood of the sightless eye.
 
-![deckard-dara1](/assets/deckard/deckard_dara1.jpg){:.center-size-image}
+![deckard-dara1](/assets/deckard/deckard_dara1.jpg){: .center-size-image}
 
-![deckard2](/assets/deckard/deckard2.jpg){:.center-size-image}
+![deckard2](/assets/deckard/deckard2.jpg){: .center-size-image}
 
 As of this writing, the boy is now 6 months old and we have just spent the last month visiting my parents in California. They also came to visit us over the summer when he was first born and frankly, I don't know how we would've managed taking care of him and Dara without their help. One of the greatest delusions of our modern time is that a couple can raise a child on their own. What kind of nonsensical expectation is that... I was essentially raised by my grandparents and aunts and uncles until the age of 4. We all lived under the same roof, ate meals at the same table, and as a result, I was never lacking for attention or care. My parents were young and working so it was unreasonable to expect them to raise me alone, yet that seems to be almost the norm these days, disappointing as it may be. Personally, I think children should be raised in the presence of as much as family as possible. Whoever said "It takes a village..." surely knew what they were talking about.
 
-![deckard3](/assets/deckard/deckard3.jpg){:.center-size-image}
+![deckard3](/assets/deckard/deckard3.jpg){: .center-size-image}
 
-![deckard4](/assets/deckard/deckard4.jpg){:.center-size-image}
+![deckard4](/assets/deckard/deckard4.jpg){: .center-size-image}
 
 Even now, as we prepare to return to Massachusetts and continue our work-from-home lifestyle, we still have not found a daycare opening for Deckard and we will continue to have to juggle childcare with our fulltime jobs. Thankfully, we're fortunate to work for organizations that understand this challenge and are flexible in that regard.
 
 <h2> The prodigal son </h2>
 
-![deckard5](/assets/deckard/deckard5.jpg){:.center-size-image}
+![deckard5](/assets/deckard/deckard5.jpg){: .center-size-image}
 
 I'll attempt to recount my experience thus far of raising my second child but given my limited time and sleep-deprived memory, this will truly be a "best-effort" type of post. It's no mystery that having sons is very important in Chinese culture. This is in fact true of many cultures but I never quite understood it, after all, raising me was certainly no picnic and just thinking about all the mind-numbingly stupid things I did growing up and how close I came to maiming and seriously injuring myself multiple times makes me nervous about having to contend with a boy of similar spirit. 
 
-![deckard6](/assets/deckard/deckard6.jpg){:.center-size-image}
+![deckard6](/assets/deckard/deckard6.jpg){: .center-size-image}
 
 Deckard was born small, my wife is small so her uterus is small, and thus, by American standards, our children came out small. In fact, for boys, Deckard was the in the 1% for weight, weighing in at 5 lbs, 8 ozs. Just slightly above the threshold for intensive monitoring post-birth that Dara was subject to. Nonetheless, the boy has shown a great appetite for breast milk, and now, at 6 months, has started exploring some solids and other foods, much to the delight of my parents. In fact, seeing the joy my parents got out of feeding him and caring for him warmed my heart; I could not think of a better gift. Not only have I perpetuated my genetic material and continued what can be only assumed is thousands of years of successful hereditary propagation, I was able to fulfill a traditional role and provide my parents with grandchildren, a boy and a girl, 儿女双全.
 
-![deckard7](/assets/deckard/deckard7.jpg){:.center-size-image}
+![deckard7](/assets/deckard/deckard7.jpg){: .center-size-image}
 
 So how has Deckard been, and more importantly, how has he differed from Dara? For starters, he is growing on a much more rapid trajectory than Dara. At 5 months, we was already at the 75% for weight. Starting at 1%, that is pretty amazing. Secondly, he does not sleep nearly as well as Dara. He will often stir every 2 hours or so and bless my wife's enormous heart for putting up and dealing with him. I am fortunate enough to be get to sleep with Dara, who other than some sleep talking and rolling around, is a very good sleeper. She's even fully potty trained now we only have one set of diapers to contend with at any given time. My wife and I have spent the entirety of Deckard's life caring for him at home, in stark contrast to Dara, who spent the first few months living my wife at my in-laws. I was only there occasionally since the commute was so much worse from their house and I missed out on a lot of her early growth. That being said, my in-laws have not spent nearly as much time with Deckard, but that is all going to change soon as he is starting to eat solids and they want nothing more than to fatten up their grandchildren.
 
-![deckard-dara2](/assets/deckard/deckard_dara2.jpg){:.center-size-image}
+![deckard-dara2](/assets/deckard/deckard_dara2.jpg){: .center-size-image}
 
 Overall, I am blessed to have two healthy, happy, and beautiful children. Dara has taken to big-sisterhood well and has only shown jealousy on few occasions (mostly asking to be held when she sees him being held). I'n really looking forward to all the wonderful moments they'll share growing up. Oh, we also discovered [Hey Bear][hey-bear], a youtube channel of baby sensory videos which Deckard has taken a great liking to. 
 
-![deckard8](/assets/deckard/deckard8.jpg){:.center-size-image}
+![deckard8](/assets/deckard/deckard8.jpg){: .center-size-image}
 
 <h2> Other updates and future posts </h2>
 
