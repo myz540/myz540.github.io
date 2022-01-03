@@ -35,7 +35,7 @@ for filename in filenames:
                 break
     f.close()
 total_tags = set(total_tags)
-print("Here")
+
 old_tags = glob.glob(tag_dir + '*.md')
 for tag in old_tags:
     os.remove(tag)
