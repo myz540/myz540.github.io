@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+# Exit on first failed test
+set -ex
+
+python utils/tag_generator.py
