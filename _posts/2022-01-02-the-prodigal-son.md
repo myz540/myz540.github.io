@@ -10,7 +10,7 @@ tags: biography dara deckard
 
 It's been a long time, I shouldntve left you... without a dope beat to step to. But no really, it has been a long time. In fact, I didn't publish a single blog post in 2021, which is absolutely crazy since that was essentially a full year of COVID where I was working from home and had plenty of time and substance to write about. 
 
-![deckard1](/assets/deckard/deckard1.jpg)
+![deckard1](/assets/deckard/deckard1.jpg){:height="36px" width="36px"}
 
 Alas, I've been busy. The most important update is of course the birth of my son, Deckard Sen Zhong. His namesake comes from the classic game Diablo II and it is rather serendipitous that [Diablo II: Resurrected][d2-resurrected] was released shortly after his birth. Deckard Cain[deckard-cain] is of course the Horadric scholar who is a focal character in all the Diablo games. If I had a daughter, I was prepared to name her [Akara][akara], high priestess of the sisterhood of the sightless eye.
 
@@ -58,7 +58,7 @@ Lastly, I'll probably write a short post about some of the TV I've been watching
 
 My new work place uses slack and google meet instead of microsoft teams and that whole suite of tools. I've noticed with the move to remote work and the proliferation of tooling that exists that companies and employees are trying to strike a fine balance between respecting work-life balance, and making sure employees aren't just slacking off all day. I gotta say, I really like all that slack has to offer, and am particularly fond of the custom emojis you can add. Who knew my meme skills would become professionally relevant.
 
-<iframe width="420" height="315" src="https://preview.redd.it/y6cd405x2iz61.gif?width=336&format=mp4&s=882810ade5ba4f223263db6c73421c0a73777816"></iframe>
+<iframe width="420" height="315" src="https://preview.redd.it/y6cd405x2iz61.gif"> </iframe>
 
 [d2-resurrected]: https://www.pcgamer.com/diablo-2-resurrected-review/
 [deckard-cain]: https://diablo.fandom.com/wiki/Deckard_Cain
