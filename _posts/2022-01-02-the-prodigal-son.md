@@ -48,15 +48,20 @@ Overall, I am blessed to have two healthy, happy, and beautiful children. Dara h
 
 <h2> Other updates and future posts </h2>
 
-So what else is new? I started a new job at [Embark Veterinary][embark] in December of 2021. I have been there a year now and will probably make a post on my experience and overall thoughts. They are essentially the 23andMe for dogs, providing consumer grade genetic testing via microarray for individual pet owners and breeders. My role is purely software engineering so I am longer grappling with challenging scientific problems and focusing on a whole new set of problems. The work has been fulfilling and I have leveled up many times over in all facets, but mostly in my understanding and usage of cloud infrastructure and resources.
+So what else is new? I started a new job at [Embark Veterinary][embark] in December of 2021. I have been there a year now and will probably make a post on my experience and overall thoughts. They are essentially the 23andMe for dogs, providing consumer grade genetic testing via microarray for individual pet owners and breeders. My role is purely software engineering so I am longer grappling with challenging scientific problems and focusing on a whole new set of problems. The work has been fulfilling and I truly love what I do. I have leveled up many times over in all facets, but mostly in my understanding and usage of cloud infrastructure and resources.
 
 I also will probably make a post about COVID, and try to highlight some of the work we did at Gritstone to develop a next-generation vaccine with (what I believe) is a more intelligent design over the current options (Moderna, Pfizer, JnJ). In fact, I hate to say it but COVID kind of saved Moderna. Their mRNA technology had failed to deliver any sort of promising clinical candidates for years but they all of a sudden became the bell of the ball. When COVID first broke out in early 2020, I had tossed around the idea of incorporating epitopes from the virus into a cassette for a T-cell based vaccine. This was mostly a thought exercise but one which I executed on and made a brief presentation in March 2020 to my colleagues at Gritstone. The idea kind of took hold and within months, I joined a cross functional team of scientists to set out designing and delivering on this idea. I was obviously barred from even mentioning this at the time but now that the patent application has been submitted and the news has broke (and yours truly a co-inventor on the patent), I think I can go into a little more detail in a future post.
 
+Lastly, I'll probably write a short post about some of the TV I've been watching (or trying to watch) and what games I've been playing and enjoying. Until then, happy new year!
 
+<h3> Quick note on Slack </h3>
 
+My new work place uses slack and google meet instead of microsoft teams and that whole suite of tools. I've noticed with the move to remote work and the proliferation of tooling that exists that companies and employees are trying to strike a fine balance between respecting work-life balance, and making sure employees aren't just slacking off all day. I gotta say, I really like all that slack has to offer, and am particularly fond of the custom emojis you can add. Who knew my meme skills would become professionally relevant.
+
+<iframe width="420" height="315" src="https://preview.redd.it/y6cd405x2iz61.gif?width=336&format=mp4&s=882810ade5ba4f223263db6c73421c0a73777816"></iframe>
 
 [d2-resurrected]: https://www.pcgamer.com/diablo-2-resurrected-review/
 [deckard-cain]: https://diablo.fandom.com/wiki/Deckard_Cain
 [akara]: https://diablo.fandom.com/wiki/Akara
 [hey-bear]: https://www.youtube.com/channel/UCtf9cFBJkHVAf2qMqF01xYg
-[embark]: 
+[embark]: https://embarkvet.com/
