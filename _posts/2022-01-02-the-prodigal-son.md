@@ -10,7 +10,7 @@ tags: biography dara deckard
 
 It's been a long time, I shouldn't've left you... without a dope beat to step to. But no really, it has been a long time. In fact, I didn't publish a single blog post in 2021, which is absolutely crazy since that was essentially a full year of COVID where I was working from home and had plenty of time and substance to write about. 
 
-![deckard1](/assets/deckard/deckard1.jpg){:width="75%" height="auto" margin= "0 auto" display="block"}
+![deckard1](/assets/deckard/deckard1.jpg){: .center-size-image}
 
 Alas, I've been busy. The most important update is of course the birth of my son, Deckard Sen Zhong. His namesake comes from the classic game Diablo II and it is rather serendipitous that [Diablo II: Resurrected][d2-resurrected] was released shortly after his birth. Deckard Cain[deckard-cain] is of course the Horadric scholar who is a focal character in all the Diablo games. If I had a daughter, I was prepared to name her [Akara][akara], high priestess of the sisterhood of the sightless eye.
 
