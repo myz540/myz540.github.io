@@ -8,7 +8,7 @@ tags: biography dara deckard
 
 <h2> It's been a long time... </h2>
 
-It's been a long time, I shouldntve left you... without a dope beat to step to. But no really, it has been a long time. In fact, I didn't publish a single blog post in 2021, which is absolutely crazy since that was essentially a full year of COVID where I was working from home and had plenty of time and substance to write about. 
+It's been a long time, I shouldn't've left you... without a dope beat to step to. But no really, it has been a long time. In fact, I didn't publish a single blog post in 2021, which is absolutely crazy since that was essentially a full year of COVID where I was working from home and had plenty of time and substance to write about. 
 
 ![deckard1](/assets/deckard/deckard1.jpg){: width=50% height=auto}
 
