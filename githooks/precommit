@@ -3,4 +3,5 @@
 # Exit on first failed test
 set -ex
 
+echo "Running precommit hooks"
 python utils/tag_generator.py
