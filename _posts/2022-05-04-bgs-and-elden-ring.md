@@ -24,15 +24,19 @@ Now that Arena was losing its appeal, I needed something else. I had seen `Battl
 
 Hearthstone battlegrounds is what's known as an "auto-battler". The game has 8 players with each player choosing a hero at the start. The hero has a unique "hero power" (HP) and buddy (minion) which often define their strategies and composition. There are currently 8 tribes of minions available but any given game will only feature 5 tribes. The game largely consists of two-phase turns. In the first phase, known as the "recruiting" phase, the player is offered some minions/cards that they can buy from the all-powerful and merciful Bob. Bob is a bartender and the humble keeper of this tavern and his RNG does contribute to the success/failure of players.
 
+## Recruiting Phase
+
 ![tavern_phase](/assets/video-games/tavern_phase.jpg)
 
 Each player has a tavern tier, essentially a level, which determines the minions that Bob's offers. The tavern tiers range from 1 to 6 and are denoted by stars, with 1-star units being generally the weakest and 6-star units being generally the best and strongest. The minions that Bob offers will range from 1 up to your tavern tier with no bias. How this works is that there is a pool of minions, with each minion having a certain number of copies up based on the tavern tier. See [the wiki](bgs-wiki) for more detailed information that I'll be glossing over. Basically, the higher tier minions have less copies so once you buy one, that's one less in the pool for everyone else. This pool is what Bob samples from and offers to you. If you don't like it, you can refresh the tavern and "roll" a new set of minions. During this phase, you can buy minions - all minions cost 3 gold, and sell minions - all minions sell for 1 gold. Some minions will have battlecries which buff your other minions, or your "board" in general. Other minions will have deathrattles which do nothing during this phase. **Buffs to your units in the recruiting phase are permanent**. This is a hugely important concept. The board can hold a maximum of **7** units. 
 
 ![bob](/assets/video-games/bob.jpg){:.center-size-image}
 
-The next phase is known as the combat phase. You will be randomly matched up against one other player - another RNG element. Your boards will then attack one another with each player's left most unit attacking a random enemy unit, and then the opponent doing the same. Players alternate and repeat until one player has no more minions on board. The player to attack first is the one with more minions, in the case of a tie, it becomes a coin toss. All attacks are random but minions with taunt will be attacked first. Pretty straight forward so far.
+## Combat Phase
 
 ![combat_phase](/assets/video-games/combat_phase.jpg)
+
+The next phase is known as the combat phase. You will be randomly matched up against one other player - another RNG element. Your boards will then attack one another with each player's left most unit attacking a random enemy unit, and then the opponent doing the same. Players alternate and repeat until one player has no more minions on board. The player to attack first is the one with more minions, in the case of a tie, it becomes a coin toss. All attacks are random but minions with taunt will be attacked first. Pretty straight forward so far.
 
 The losing player takes damage equal to the other player's tavern tier, plus the tavern tiers of all the surviving minions on their side. Each player starts with 40 life and heroes are balanced by giving the weaker performing heroes more armor. 
 
