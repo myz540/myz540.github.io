@@ -6,4 +6,5 @@ If [jekyll](https://jekyllrb.com/docs/installation/) is not installed, install i
 
 1. `cd myz540.github.io`
 2. `jekyll serve`
-3. Create a new post by copy-pasting a previous post from `_posts` and updating the header information
+3. Create a new post by copy-pasting a previous post from `_posts` and updating the header information, make sure the time is not in the future
+4. Aggregate new tags with `python utils/tag_generator.py`
