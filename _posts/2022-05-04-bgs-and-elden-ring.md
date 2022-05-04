@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hearthstone Battlegrounds and Elden Ring"
-date:   2022-05-04 17:18:39 -0400
+date:   2022-05-04 12:18:39 -0400
 categories: jekyll update
 tags: video-games elden-ring hearthstone-battlegrounds
 ---
