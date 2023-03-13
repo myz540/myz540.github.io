@@ -30,7 +30,7 @@ So why did it take me so long to write another post? Well, content creation is h
 
 Dara and I have been playing video games together since she was a wee little girl. She'd sit on my lap as I explored the beautiful worlds of [Assassin's Creed: Odyssey](ac-odyssey) and embarked on the "entirely-too-silly" adventure that is [Saint's Row 4](saints-row-4), or as Dara calls it, "Purple Game". I cherish these moments and in an effort to capture them, I decided to use a webcam and start recording some of our gaming sessions. Over the years, I've been accumulating this collection of unedited, unfiltered videos of Dara and I playing games together. And so, I finally decided it was time to upload them to [youtube](our-yt-channel)
 
-![saints_row_4](/assets/video-games/saints_row_4.jpeg)
+![saints_row_4](/assets/video-games/saints-row-4.jpeg)
 
 And so that's what I did, but I quickly hit a snag, the 15-minute video time limit. Of course, I tried downloading some video editing tools to cut the videos but man, those tools are so full-featured and their UI so cluttered I couldn't figure out how to do my simple operation. So what'd I do???
 
