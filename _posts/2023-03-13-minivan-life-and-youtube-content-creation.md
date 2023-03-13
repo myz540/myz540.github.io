@@ -26,11 +26,11 @@ One of the main reasons I decided to buy the minivan is that Deckard is rapidly 
 
 So why did it take me so long to write another post? Well, content creation is hard. I think we often take content creation for granted. We live in a time of plenty, where we no longer need to wait on a weekly basis for television shows to be released. Where we binge TV, sort new subreddits by `Top: all time`, slice through new youtube channels like butter, and generally just consume incredible amounts of content. But how much effort went into making that content? Based on my recent experiences uploading Dara and my videos to youtube, a lot.
 
-![ac_odyssey](/assets/video-games/ac-odyssey.jpeg)
+![ac_odyssey](/assets/video-games/ac-odyssey.jpeg){:.center-size-image}
 
 Dara and I have been playing video games together since she was a wee little girl. She'd sit on my lap as I explored the beautiful worlds of [Assassin's Creed: Odyssey](ac-odyssey) and embarked on the "entirely-too-silly" adventure that is [Saint's Row 4](saints-row-4), or as Dara calls it, "Purple Game". I cherish these moments and in an effort to capture them, I decided to use a webcam and start recording some of our gaming sessions. Over the years, I've been accumulating this collection of unedited, unfiltered videos of Dara and I playing games together. And so, I finally decided it was time to upload them to [youtube](our-yt-channel)
 
-![saints_row_4](/assets/video-games/saints-row-4.jpeg)
+![saints_row_4](/assets/video-games/saints-row-4.jpeg){:.center-size-image}
 
 And so that's what I did, but I quickly hit a snag, the 15-minute video time limit. Of course, I tried downloading some video editing tools to cut the videos but man, those tools are so full-featured and their UI so cluttered I couldn't figure out how to do my simple operation. So what'd I do???
 
