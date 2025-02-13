@@ -59,11 +59,11 @@ Eventually, the pathology report came in.
 
 Healthy tissue.
 
-![endoscopy_healthy](/assets/cancer/endoscopy_healthy.png){:.center-size-image}
+![endoscopy_healthy](/assets/cancer/endoscopy_healthy.jpg){:.center-size-image}
 
 Cancerous tissue
 
-![endoscopy_cancer](/assets/cancer/endoscopy_cancer.png){:.center-size-image}
+![endoscopy_cancer](/assets/cancer/endoscopy_cancer.jpg){:.center-size-image}
 
 <h3> Staging </h3>
 
@@ -157,6 +157,10 @@ The main side effect I've noted is peripheral neuropathy. A tingling pins and ne
 <h2> Where I am today </h2>
 
 Today, I have completed 3 cycles with 5 more to go. Overall, I am maintaining a positive outlook. It has crushed my social calendar as I've basically been isolating since I started but my friends have been very supportive and delivering food to me on occasion. My wonderful wife has taken time off work with FMLA and has taken on all responsibilities for the kids' schedule, as well as doing all the things I am not able to do.
+
+I want to thank my friends and family for their support. I also want to thank Dr. Irani at BWH for the surgery. Executed to perfection with no complications and a smooth recovery. A special thanks to the nurses at BWH, especially Lucy who advocated for getting the Foley catheter out, greatly improving my quality of life. Thanks to Dr. Huffman at DFCI for the chemo plan and the entire team at DFCI for their expertise and care. Honeslty, there was such a massive mobilization of resources and coordination of care that I almost feel undeserving of the effort. Everyone who played a part in my care, no matter how big or small, thank you.
+
+It's crazy to think that for me, that surgery was a huge life-changing event, but for Dr. Irani, it was just another day at the office, saving lives.
 
 I am really looking forward to being done with chemo and when I am done, I either want to get a dog or trade-in my Golf for a sports car, maybe a C6 or C7 Corvette?
 
