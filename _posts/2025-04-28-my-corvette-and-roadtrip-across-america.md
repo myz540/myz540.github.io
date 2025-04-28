@@ -117,7 +117,7 @@ Needless to say, both kids love the car
 
 ![c7-1](/assets/cars/c7-1.jpg){:.center-size-image}
 
-![c7-2](/assets/cars/c7-1.jpg){:.center-size-image}
+![c7-2](/assets/cars/c7-2.jpg){:.center-size-image}
 
 ![c7-deckard](/assets/cars/c7-deckard.jpg){:.center-size-image}
 
