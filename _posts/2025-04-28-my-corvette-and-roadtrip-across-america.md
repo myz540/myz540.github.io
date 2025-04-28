@@ -124,13 +124,9 @@ Needless to say, both kids love the car
 ![c7-dara](/assets/cars/c7-dara.jpg){:.center-size-image}
 
 [exotic-car-trader]: https://exoticcartrader.com
-
+[doubletree]: https://www.hilton.com/en/brands/doubletree-by-hilton
 [mardi-gras-hotel]: https://mardigraslasvegas.com
-
 [treasure-island]: https://treasureisland.com
-
 [comfort-inn]: https://www.choicehotels.com/comfort-inn
-
 [best-western]: https://www.bestwestern.com/en_US.html
-
 [quality-inn]: https://www.choicehotels.com/quality-inn
