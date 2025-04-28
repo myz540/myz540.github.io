@@ -55,28 +55,82 @@ I was able to get a one-way ticket to Vegas for $140. I landed on a Saturday and
 
 Altogether, I spent two nights in Vegas for combined cost of $190. I spent the first night at a seedy hotel called [The Mardi Gras Hotel][mardi-gras-hotel] and the second at [Treasure Island][treasure-island]
 
-<h4> Las Vegas, NV to Beaver, UT </h4>
+<h4> Day 1: Las Vegas, NV to Beaver, UT </h4>
 
 Monday morning, I brought the car to the dealership and after 8 hours, the car was fully serviced and ready to hit the road. Since I spent most of the day waiting at the dealership, I was only able to drive about 3 hours before crashing for the night.
 
-![day1-map](/assets/maps/day1-map.png)
+![day1-map](/assets/maps/day1-map.png){:.center-size-image}
 
 I ended up in Beaver, UT and stayed at the [Comfort Inn][comfort-inn] for $140. A bit expensive but the free breakfast was worth it.
 
-<h4> Beaver, UT to Denver, CO </h4>
+<h4> Day 2: Beaver, UT to Denver, CO </h4>
 
 The next day was by far the most scenic and fun day of the trip. I drove to Denver, CO which took me through the Rocky mountains. Miles of twisty canyon roads, surrounded on all sides by beautiful ice-capped mountains, or the reddish orange desert mountains. The Corvette was at home on those roads and was able to disregard all the speed limits, feeling incredibly planted at high speeds, it was a new and exhilirating experience.
 
-![dog](/assets/cancer/dog.jpg){:.center-size-image}
+![day2-map](/assets/maps/day2-map.png){:.center-size-image}
 
-![c6](/assets/cancer/c6.png){:.center-size-image}
+I ended up staying at a [DoubleTree][doubletree] which was a nicer hotel than I was previously accustomed to but it didn't have free breakfast and I even had to pay for parking! Overall, not worth it as the hotel was $112 but the parking was $18 and breakfast was another $10, bringing to lodging total for this day to $140.
 
-![c7](/assets/cancer/c7.jpeg){:.center-size-image}
+<h4> Day 3: Denver, CO to Omaha, NE </h4>
+
+The third day took me through middle America, long straight highways with endless fields on corn on either side. Not much to look at but hard to get bored when you're driving a Corvette.
+
+![day3-map](/assets/maps/day3-map.png){:.center-size-image}
+
+I stayed at a [Best Western Inn][best-western] for $92 and overall, this was probably the best value hotel of the whole trip. The rooms were clean, the breakfast and parking were free, and the cost was reasonable.
+
+<h4> Day 4: Omaha, NE to Hammond, IN </h4>
+
+The fourth day was the first time I encountered a hiccup. Early on in the drive, the engine shuttered oddly and I saw the CEL start flashing. I was immediately concerned but the engine felt fine so I continued driving. At my first rest stop, I googled what the flashing CEL means it is indicative of a cylinder misfire. The cylinder misfire should obviously be addressed ASAP but I was still en route, I committed myself to getting to Hammond, IN and taking the car to the dealership the next day to fix the issue.
+
+![day4-map](/assets/maps/day4-map.png){:.center-size-image}
+
+I made it safely to Hammond and stayed at a [Quality Inn][quality-inn] for $72. The value on this hotel was very good but the breakfast was extremely lacking. Still, an overall good stay.
+
+<h4> Day 5: Hammond, IN to Erie, PA </h4>
+
+Early morning, I took the car to the nearby dealership to fix the cylinder misfire. The CEL was not on but the previous day, it did flash about 4-5 times during the trip. The dealership ran the codes and it showed cylinder 7 and 8 were misfiring. The fix? Replace all spark plugs, replace ignition coils for 7 and 8. They also ended up replacing the serpentine belt which was developing small cracks and also the fuel injector for cylinder 8. Total cost? $2500... Damn!
+
+It would have been worth it if the fixes were good but literally within 50 miles, I felt the misfire again the CEL started flashing, this time it stayed on. I decided I would get the car home before doing any more "fixes" as I was already out $3800 to the dealership and couldn't stomach another expensive "fix" that might not even really fix the issue
+
+![day5-map](/assets/maps/day5-map.png){:.center-size-image}
+
+Day 5 ended up being the most tiring day of driving, as I drove about 6 hours after spending the day at the dealership. I ended up arriving at the [Quality Inn][quality-inn] in Erie, PA at 11:30 PM. Breakfast sucked and all the rooms smelled like cigarettes. It only cost $67 but I would have probably paid more for a non-smoking room. Allegedly, all the rooms were non-smoking but empirically, they were all smoked in pretty heavily.
+
+<h4> Day 6: Erie, PA to Boston, MA </h4>
+
+The final stretch! This day had the most mileage but I was close to home and motivated to make it. Driving through upstate New York was very pleasant and beautiful but the cylinder misfire was still an issue I had to keep an eye on and I was babying the car like crazy (not fun).
+
+![day6-map](/assets/maps/day6-map.png){:.center-size-image}
+
+It was really nice finally being home! I really missed my wife and kids and sleeping in my own bed. The trip was amazing a much needed reprieve after all those rounds of chemo.
+
+<h3> Cylinder misfire follow-up </h3>
+
+I brought the car to my trusted mechanic to diagnose and implement a permanent fix to the cylinder misfire issue.
+
+Alas, it was cylinder 7 that was misfiring but I am still waiting on a diagnosis and action plan to fix.
+
+<h3> More pics </h3>
+
+Needless to say, both kids love the car
+
+![c7-1](/assets/cars/c7-1.jpg){:.center-size-image}
+
+![c7-2](/assets/cars/c7-1.jpg){:.center-size-image}
+
+![c7-deckard](/assets/cars/c7-deckard.jpg){:.center-size-image}
+
+![c7-dara](/assets/cars/c7-dara.jpg){:.center-size-image}
 
 [exotic-car-trader]: https://exoticcartrader.com
 
-[mardi-gras-hotel]:
+[mardi-gras-hotel]: https://mardigraslasvegas.com
 
-[treasure-island]:
+[treasure-island]: https://treasureisland.com
 
-[comfort-inn]:
+[comfort-inn]: https://www.choicehotels.com/comfort-inn
+
+[best-western]: https://www.bestwestern.com/en_US.html
+
+[quality-inn]: https://www.choicehotels.com/quality-inn
