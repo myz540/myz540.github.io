@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Corvette and Roadtrip Across America"
-date: 2025-04-18 12:18:39 -0400
+date: 2025-04-28 12:18:39 -0400
 categories: jekyll update
 tags: cars
 ---
