@@ -43,7 +43,29 @@ Their process is simple:
 
 I am currently at step 6 with the car in my driveway and am waiting on the title. They should also send me an affidavit stating that I paid the 6% FL sales tax and any MA tax I owe will be the difference.
 
+I was able to negotiate the price down to 37k based on the pre-purchase inspection.
 
+I was also offered 12k for my Golf trade-in, altogether, that put the cost of the car at 25k, not unreasonable IMO.
+
+<h3> Trip to Vegas </h3>
+
+Once I received the temporary plate and tags, I was ready to book my flight to Vegas.
+
+I was able to get a one-way ticket to Vegas for $140. I landed on a Saturday and took a cab to pick up the car. I picked it up and drove it to my hotel and made an appointment with the Chevy dealership nearby to do a full service before starting the 2700 mile drive back to Boston.
+
+Altogether, I spent two nights in Vegas for combined cost of $190. I spent the first night at a seedy hotel called [The Mardi Gras Hotel][mardi-gras-hotel] and the second at [Treasure Island][treasure-island]
+
+<h4> Las Vegas, NV to Beaver, UT </h4>
+
+Monday morning, I brought the car to the dealership and after 8 hours, the car was fully serviced and ready to hit the road. Since I spent most of the day waiting at the dealership, I was only able to drive about 3 hours before crashing for the night.
+
+![day1-map](/assets/maps/day1-map.png)
+
+I ended up in Beaver, UT and stayed at the [Comfort Inn][comfort-inn] for $140. A bit expensive but the free breakfast was worth it.
+
+<h4> Beaver, UT to Denver, CO </h4>
+
+The next day was by far the most scenic and fun day of the trip. I drove to Denver, CO which took me through the Rocky mountains. Miles of twisty canyon roads, surrounded on all sides by beautiful ice-capped mountains, or the reddish orange desert mountains. The Corvette was at home on those roads and was able to disregard all the speed limits, feeling incredibly planted at high speeds, it was a new and exhilirating experience.
 
 ![dog](/assets/cancer/dog.jpg){:.center-size-image}
 
@@ -52,3 +74,9 @@ I am currently at step 6 with the car in my driveway and am waiting on the title
 ![c7](/assets/cancer/c7.jpeg){:.center-size-image}
 
 [exotic-car-trader]: https://exoticcartrader.com
+
+[mardi-gras-hotel]:
+
+[treasure-island]:
+
+[comfort-inn]:
